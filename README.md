@@ -38,4 +38,7 @@ I'm a 22-year-old Computer Systems Engineer from Colombia with a strong focus on
 ---
 
 ### 🔥 &nbsp;GitHub Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SantiagoCC09&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCC09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
